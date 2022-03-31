@@ -1,5 +1,6 @@
 # ML_Kmeans
 K-Means Algorithm
+<p align="center">
 
 ![image](https://user-images.githubusercontent.com/93954052/161167701-ed48b05e-abb5-4239-9861-93f38e183369.png)
 
@@ -14,3 +15,5 @@ K-Means Algorithm
 ![image](https://user-images.githubusercontent.com/93954052/161167545-8a0f8bcb-6a92-4a06-b90d-e24938ece2e1.png)
 
 ![image](https://user-images.githubusercontent.com/93954052/161167589-4cfbfb77-47e9-4361-8cb8-ea44a800302c.png)
+
+</p>

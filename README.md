@@ -4,7 +4,7 @@ K-Means Algorithm
 
   <b>![image](https://user-images.githubusercontent.com/93954052/161167701-ed48b05e-abb5-4239-9861-93f38e183369.png)</b><br>
 
-  ![image](https://user-images.githubusercontent.com/93954052/161167980-d51b57c7-b0c9-467f-95cc-2085f7379565.png)
+  ![image](https://user-images.githubusercontent.com/93954052/161167980-d51b57c7-b0c9-467f-95cc-2085f7379565.png)</b>
 
   ![image](https://user-images.githubusercontent.com/93954052/161167943-89982ad2-9d76-41f1-965f-8361f9aac9da.png)
 

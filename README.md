@@ -1,7 +1,9 @@
 # ML_Kmeans
-K-Means Algorithm
+##K-Means Algorithm
 
 Modified K-Mean Algorithm that each group should have at least one element.
+
+<DataFiltering Using K-means>
 
 <p align="center">
 

@@ -1,6 +1,6 @@
 # ML_Kmeans
 
-## Modified K-Mean Algorithm that each group should have at least one element.
+## Modified K-Mean Algorithm (each group should have at least one element).
 
 -Case Study: DataFiltering Using K-means-
 

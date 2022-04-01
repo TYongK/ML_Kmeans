@@ -2,7 +2,7 @@
 
 ## Modified K-Mean Algorithm that each group should have at least one element.
 
-## Case Study DataFiltering Using K-means
+-Case Study: DataFiltering Using K-means-
 
 <p align="center">
 
